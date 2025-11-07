@@ -1,56 +1,45 @@
-# 👋 Salut, moi c’est Laurent Mwana
+# 👋 Hi there, I'm Laurent Mwana
 
-🎯 **Développeur Web & Mobile | Symfony · Laravel · Next.js · API Platform**
+🎯 **Full-Stack Web & Mobile Developer | Symfony · Laravel · Next.js · API Platform**
 
-Bienvenue sur mon profil GitHub !  
-Je suis passionné par la création d’applications performantes, élégantes et utiles — qu’il s’agisse d’API robustes, de dashboards administratifs ou d’applications hybrides pour le grand public.
-
----
-
-## 🚀 À propos de moi
-
-- 💻 Je code principalement avec **PHP (Symfony / Laravel)** et **JavaScript (Next.js / React / AdonisJS)**  
-- 🧠 J’aime concevoir des **architectures propres** et **scalables**  
-- 🧩 Actuellement, je travaille sur un **projet académique de digitalisation des paiements étudiants via QR code** à l’Université de Kinshasa  
-- 🌱 J’apprends en continu : **DevOps, sécurité des API, et design system avec Tailwind**  
-- 📍 Basé à Kinshasa (RDC)
+Welcome to my GitHub profile!  
+I'm passionate about building clean, scalable, and user-friendly applications — from high-performance APIs to modern web and hybrid mobile apps.
 
 ---
 
-## 🧰 Stack technique
+## 🚀 About Me
 
-**Langages :**
-> PHP · JavaScript · TypeScript · SQL · HTML · CSS
+- 💻 I mainly work with **PHP (Symfony / Laravel)** and **JavaScript (Next.js / React / AdonisJS)**
+- 🧠 I love designing **clean architectures** and **efficient backend systems**
+- 🎓 Currently working on a **university project to digitalize student payments using QR codes** at the University of Kinshasa
+- 🌱 Continuously learning **DevOps, API security, and UI design systems with Tailwind CSS**
+- 📍 Based in **Kinshasa, D.R. Congo**
 
-**Frameworks & outils :**
+---
+
+## 🧰 Tech Stack
+
+**Languages:**  
+> PHP · JavaScript · TypeScript · SQL · HTML · CSS  
+
+**Frameworks & Tools:**  
 > Symfony · Laravel · API Platform · Next.js · React · AdonisJS  
-> Tailwind CSS · Vite · Node.js · Docker · GitHub Actions
+> Tailwind CSS · Vite · Node.js · Docker · GitHub Actions  
 
-**Base de données :**
-> MySQL · PostgreSQL · SQLite
+**Databases:**  
+> MySQL · PostgreSQL · SQLite  
 
-**Autres :**
-> JWT Auth · REST API · VichUploader · PHPStan · Inertia.js · shadcn/ui
+**Other Tools:**  
+> JWT Auth · REST APIs · VichUploader · PHPStan · Inertia.js · shadcn/ui  
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 ![Laurent Mwana GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurentMwana&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentMwana&layout=compact&theme=tokyonight)
 
----
 
-## 🌐 Me retrouver
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ton-lien)  
-- 💌 **Email :** [ton.email@exemple.com](mailto:ton.email@exemple.com)
-- 🌍 [Portfolio](https://ton-site.com) *(si tu en as un)*  
-
----
-
-> _“Le code propre est comme une bonne conversation entre humains.”_ 💬  
+> _"Clean code is like a good conversation — clear, structured, and human."_  
 > — *Laurent Mwana*
-
----
