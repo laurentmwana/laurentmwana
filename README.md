@@ -17,7 +17,8 @@ I'm passionate about creating clean, scalable, and user-friendly applications â€
 
 ## Connect with me
 
-- Twitter: [@votre_compte_twitter](https://x.com/Labeya_)
+- Twitter: [@Labeya_](https://x.com/Labeya_)
+- Instagram: [@Padoda024](https://instagram.com/padoda024)
 
 ---
 
