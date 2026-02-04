@@ -2,8 +2,8 @@
 
 **Full-Stack Web & Mobile Developer | Symfony · Laravel · Next.js · API Platform**
 
-Welcome to my GitHub profile!  
-I'm passionate about creating clean, scalable, and user-friendly applications — from high-performance APIs to modern web and mobile hybrid apps.
+Welcome to my digital workshop!
+I build clean, scalable, and intuitive applications, bridging robust backends with engaging frontends—from high-performance APIs to sleek web and mobile experiences.
 
 ---
 
@@ -12,10 +12,10 @@ I'm passionate about creating clean, scalable, and user-friendly applications �
 - I mainly work with **PHP (Symfony / Laravel)** and **JavaScript (Next.js / React / AdonisJS)**
 - I love designing **clean architectures** and **efficient backend systems**
 - I'm currently working on a **university project to digitize student payments using QR codes** at the University of Kinshasa
-- I continuously learn **DevOps, API security, and UI design systems with Tailwind CSS**
+- I continuously learn about **DevOps, API security, and UI design systems with Tailwind CSS**
 - Based in **Kinshasa, D.R. Congo**
 
-## Connect with me
+## Connect with Me
 
 - Twitter: [@Labeya_](https://x.com/Labeya_)
 - Instagram: [@Padoda024](https://instagram.com/padoda024)
@@ -42,5 +42,5 @@ I'm passionate about creating clean, scalable, and user-friendly applications �
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentMwana&layout=compact&theme=tokyonight)
 
-> _"Clean code is like a good conversation — clear, structured, and human."_  
+> *"Clean code is like a good conversation — clear, structured, and human."*  
 > — *Laurent Mwana*
