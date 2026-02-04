@@ -7,8 +7,4 @@ Welcome to my corner of GitHub. I'm a developer from Kinshasa building things th
 
 > "Clean code is like a good conversation: clear, structured, and human."
 
-##  Connect
-- Twitter: [@Labeya_](https://x.com/Labeya_)
-- Instagram: [@Padoda024](https://instagram.com/padoda024)
-
 *Based in Kinshasa, DRC*
