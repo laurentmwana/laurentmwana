@@ -1,4 +1,4 @@
-# Hi, I'm Laurent Mwana
+# Hi, I'm Laurent Mwanamputu
 
 **Full-Stack Web & Mobile Developer**  
 *Symfony · Laravel · Next.js · API Platform*
